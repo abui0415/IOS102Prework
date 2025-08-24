@@ -2,7 +2,7 @@
 
 ### App Description
 
-`TODO://` An app that allows users to introduce themselves. This includes their full name, school and year, number of pets and if they want more pets or not.
+An app that allows users to introduce themselves. This includes their full name, school and year, number of pets and if they want more pets or not.
 
 ### App Walk-though
 
@@ -13,8 +13,6 @@
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1bab0569d07e4a74a2d73b1a72b7729e-365267b1e632c104-full-play.gif">
     </a>
   </div>
-  
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
